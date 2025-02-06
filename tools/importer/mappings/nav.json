@@ -31,23 +31,23 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/helix-core-header[1]/div[1]/helix-core-menu[1]/helix-core-menu-item[1]",
-                  "xpathWithDetails": "id(\"helix-core-menu-item-59561\")"
+                  "xpathWithDetails": "id(\"helix-core-menu-item-80198\")"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/helix-core-header[1]/div[1]/helix-core-menu[1]/helix-core-menu-item[2]",
-                  "xpathWithDetails": "id(\"helix-core-menu-item-78269\")"
+                  "xpathWithDetails": "id(\"helix-core-menu-item-66546\")"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/helix-core-header[1]/div[1]/helix-core-menu[1]/helix-core-menu-item[3]",
-                  "xpathWithDetails": "id(\"helix-core-menu-item-78684\")"
+                  "xpathWithDetails": "id(\"helix-core-menu-item-25916\")"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/helix-core-header[1]/div[1]/helix-core-menu[1]/helix-core-menu-item[4]",
-                  "xpathWithDetails": "id(\"helix-core-menu-item-81822\")"
+                  "xpathWithDetails": "id(\"helix-core-menu-item-4997\")"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/helix-core-header[1]/div[1]/helix-core-menu[1]/helix-core-menu-item[5]",
-                  "xpathWithDetails": "id(\"helix-core-menu-item-13167\")"
+                  "xpathWithDetails": "id(\"helix-core-menu-item-58398\")"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/helix-core-header[1]/div[1]/helix-core-menu[1]/helix-core-logo[1]",

@@ -1,0 +1,55 @@
+
+.aicolumns-wrapper {
+  background-color: #FFD700; /* Sets the yellow background */
+  height: 100vh; /* Ensure full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aicolumns {
+  display: flex;
+  flex-direction: row; /* Ensure elements are side by side */
+  justify-content: space-between; /* Distribute space between elements */
+  width: 100%;
+  max-width: 1200px; /* Max width to control layout */
+}
+
+.aicolumns > div {
+  display: flex;
+  flex-direction: row; /* Ensure elements inside are side by side */
+  align-items: center;
+  justify-content: center; /* Center elements */
+}
+
+.aicolumns > div:first-child {
+  flex: 1; /* Takes one-third of the width */
+  text-align: left; /* Left-align the text */
+  justify-content: flex-start; /* Align text to the start */
+  align-items: center;
+}
+
+.aicolumns > div:first-child > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start; /* Ensure text is left-aligned */
+}
+
+.aicolumns > div:last-child {
+  flex: 2; /* Takes two-thirds of the width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aicolumns img {
+  width: auto; /* Adjust width to fit content */
+  max-width: 100%; /* Ensure images do not overflow */
+}
+
+@media (max-width: 900px) {
+  .aicolumns {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+  }
+}
